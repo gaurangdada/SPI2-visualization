@@ -7,6 +7,6 @@ The code contained in this repository requires installation of Python's PyVista.
 
 This repository contains python code for obtaining visualizations of SPI2 engineering systems. Essentially, any engineering system with multiple components that have interconnecting splines can be classified as a SPI2 system. These systems have calculated component placement and spline interpolation, and this repository provides an easy, accessible way to create these objects and place them. 
 
-Users can create splines of desired length, radius, color, and coordinates and further interpolate these spline objects with methods in the Spline class. Components are represented as solid shapes of cylinders and spheres, which can be created using the component class. 
+Users can create splines of desired length, radius, color, and coordinates and further interpolate these spline objects with methods in the Spline class. Components are represented as solid shapes of cylinders and spheres, which can be created using the Component class. 
 
 
